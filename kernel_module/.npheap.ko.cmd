@@ -1,0 +1,1 @@
+cmd_/home/csrudrap/OS/Project1/kernel_module/npheap.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/csrudrap/OS/Project1/kernel_module/npheap.ko /home/csrudrap/OS/Project1/kernel_module/npheap.o /home/csrudrap/OS/Project1/kernel_module/npheap.mod.o

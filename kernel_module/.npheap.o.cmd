@@ -1,0 +1,1 @@
+cmd_/home/csrudrap/OS/Project1/kernel_module/npheap.o := ld -m elf_x86_64   -r -o /home/csrudrap/OS/Project1/kernel_module/npheap.o /home/csrudrap/OS/Project1/kernel_module/src/core.o /home/csrudrap/OS/Project1/kernel_module/src/ioctl.o /home/csrudrap/OS/Project1/kernel_module/interface.o 
